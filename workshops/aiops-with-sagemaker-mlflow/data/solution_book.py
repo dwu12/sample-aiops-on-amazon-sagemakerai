@@ -35,13 +35,6 @@ solution_book = {
 5. Consider implementing memory pooling
     """,
     
-    "API Rate Limit Exceeded": """1. Implement request throttling
-2. Use caching to reduce API calls
-3. Review API usage patterns
-4. Contact service provider for limit increase
-5. Optimize API call frequency
-    """,
-    
     "Invalid SSL Certificate": """1. Check certificate expiration date
 2. Verify certificate chain is complete
 3. Ensure certificate matches domain name
@@ -73,7 +66,7 @@ solution_book = {
     "Service Unavailable": """1. Check service status and logs
 2. Restart the service
 3. Verify dependencies are running
-4. Check system reyour source documents. Monitor service health metrics
+4. Check system source documents. Monitor service health metrics
     """,
     
     "Configuration File Missing": """1. Locate backup configuration files
